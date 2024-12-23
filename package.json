@@ -1,0 +1,12 @@
+{
+  "name": "com.pawelsalwa.unityshortcutsez",
+  "displayName": "UnityShortcutsEz",
+  "description": "Simple suite of Editor shortcuts for Unity development.",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "documentationUrl": "https://github.com/pawelsalwa/UnityShortcutsEz",
+  "repository": {
+    "url": "https://github.com/pawelsalwa/UnityShortcutsEz.git",
+    "type": "git"
+  }  
+}
