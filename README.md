@@ -13,6 +13,6 @@ Simple suite of Editor shortcuts for Unity development.
 ## Installation
 Add this line to your **Packages/manifest.json** file in your Unity project:
 ```
-"com.pawelsalwa.unityshortcutsez": "https://github.com/pawelsalwa/unityshortcutsez"
+"com.pawelsalwa.unityshortcutsez": "https://github.com/pawelsalwa/unityshortcutsez.git"
 ```
 
